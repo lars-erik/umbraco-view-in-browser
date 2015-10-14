@@ -237,6 +237,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="packages.config" />
+    <None Include="ViewInBrowser.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Plugins\view-in-browser\view-in-browser.js">
