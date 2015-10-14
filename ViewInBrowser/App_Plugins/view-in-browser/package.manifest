@@ -1,0 +1,5 @@
+﻿{
+    javascript: [
+        "~/app_plugins/view-in-browser/view-in-browser.js"
+    ]
+}
